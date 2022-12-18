@@ -1,0 +1,24 @@
+{
+  "name": "movie-dashboard",
+  "version": "1.0.0",
+  "description": "Movie Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Movie",
+    "Landing",
+    "Page",
+    "Website"
+  ],
+  "author": "Muhammad Faqyh Muqoddam",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.57.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "bootstrap": "^5.2.3"
+  }
+}
